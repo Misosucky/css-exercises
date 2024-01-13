@@ -1,7 +1,7 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
-  align-items: center;
+  
 }
 
 .logo {
@@ -10,8 +10,6 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  justify-content: center;
-  align-items: center;
 }
 
 ul {
