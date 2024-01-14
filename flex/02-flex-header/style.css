@@ -1,7 +1,6 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
-  align-items: center;
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
