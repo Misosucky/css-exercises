@@ -31,4 +31,6 @@ a {
   margin: 10x;
   /* this removes the line under the links */
   text-decoration: none;
+  display: flex;
+  flex-direction: row; 
 }
