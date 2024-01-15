@@ -15,6 +15,7 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
+  flex-wrap: nowrap;
 }
 
 .profile-image {
@@ -52,4 +53,8 @@ ul {
   list-style-type: none;
   flex-wrap: nowrap;
   gap: 15px;
+}
+
+.right button {
+  justify-content: flex-end;
 }
