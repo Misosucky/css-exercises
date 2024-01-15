@@ -55,6 +55,10 @@ ul {
   gap: 15px;
 }
 
-.right button {
+.right-button {
   justify-content: flex-end;
+}
+
+.left-links{
+
 }
