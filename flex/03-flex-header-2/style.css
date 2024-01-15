@@ -39,7 +39,6 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 10px 24px;
-  align-items: flex-end;
 }
 
 a {
@@ -50,5 +49,6 @@ a {
 
 ul {
   list-style-type: none;
+  flex-wrap: nowrap;
   gap: 15px;
 }
