@@ -39,8 +39,6 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
-  display: flex;
-  flex-direction: row;
   align-items: flex-end;
 }
 
