@@ -32,7 +32,10 @@ body {
   color: rebeccapurple;
   font-size: 32px;
   font-weight: 900;
+  padding: 16px;
   font-style: italic;
+  display: flex;
+  justify-content: flex-start;
 }
 
 button {
