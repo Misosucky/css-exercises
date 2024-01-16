@@ -22,10 +22,6 @@ img {
   gap: 52px;
 }
 
-.text {
-  display: flex;
-  justify-content: last baseline;
-}
 /* do not edit this footer */
 .footer {
   position: fixed;
