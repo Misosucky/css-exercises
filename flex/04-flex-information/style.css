@@ -19,8 +19,13 @@ img {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
+  gap: 52px;
 }
 
+.text {
+  display: flex;
+  justify-content: last baseline;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
