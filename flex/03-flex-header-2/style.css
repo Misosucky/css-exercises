@@ -56,3 +56,8 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+.right .left {
+  display: flex;
+  align-items: center;
+}
