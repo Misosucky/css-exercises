@@ -57,7 +57,7 @@ ul {
   padding: 0;
 }
 
-.right .left {
+.right, .left {
   display: flex;
   align-items: center;
   gap: 16px;
