@@ -49,8 +49,6 @@ a {
 
 ul {
   list-style-type: none;
-  margin: 0px;
-  padding: 0px;
-  gap: 15px;
+  gap: 5px;
   display: flex;
 }
