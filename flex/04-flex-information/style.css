@@ -14,7 +14,7 @@ img {
   justify-content: center;
 }
 
-.images {
+.container {
   display: flex;
   flex-direction: row;
   align-items: center;
