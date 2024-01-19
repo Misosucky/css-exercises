@@ -15,9 +15,6 @@ body {
   justify-content: center;
 }
 
-.header {
-  font-weight: bolder;
-}
 .modal {
   background: white;
   width: 480px;
