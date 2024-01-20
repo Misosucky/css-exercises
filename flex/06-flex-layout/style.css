@@ -28,6 +28,7 @@ input {
 
 * { 
   outline: 1px solid red;
+  color: black;
 }
 
 .left-links, .right-links {
