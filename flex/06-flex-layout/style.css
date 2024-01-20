@@ -58,8 +58,8 @@ input {
   position: fixed;
   bottom: 0;
   width: 100%;
-  border: 1px solid gray;
-  background-color: gray;
+  border: 1px solid lightgrey;
+  background-color: lightgray;
 }
 
 .left-links {
