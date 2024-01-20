@@ -27,8 +27,7 @@ input {
   margin-bottom: 16px;
 }
 
-* { 
-  outline: 1px solid red;
+* {
   color: black;
   list-style: none;
   text-decoration: none;
