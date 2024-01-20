@@ -29,3 +29,7 @@ input {
 * { 
   outline: 1px solid red;
 }
+
+.left-links, .right-links {
+  list-style: none;
+}
