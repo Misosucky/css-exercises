@@ -39,3 +39,15 @@ input {
   justify-content: center;
   align-items: center;
 }
+
+.left-links {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.right-links {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+}
