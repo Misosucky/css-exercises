@@ -40,14 +40,15 @@ input {
   align-items: center;
 }
 
-.left-links {
+.header {
   display: flex;
-  justify-content: space-around;
+  justify-content: flex-start;
   align-items: flex-start;
 }
 
-.right-links {
+.footer {
   display: flex;
-  justify-content: space-around;
-  align-items: flex-end;
+  justify-content: flex-end;
+  align-items: flex-start;
+ 
 }
