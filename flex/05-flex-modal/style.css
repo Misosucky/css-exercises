@@ -23,7 +23,6 @@ body {
   gap: 15px;
   padding: 10px;
   display: flex;
-  justify-content: space-around;
 }
 
 .icon {
@@ -69,11 +68,4 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
-}
-
-.container {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  align-items: flex-start;
 }
