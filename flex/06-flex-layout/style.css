@@ -53,12 +53,13 @@ input {
 .footer {
   display: flex;
   justify-content: space-between;
-  align-items: flex-end;
+  align-items: flex-start;
   text-align: center;
   position: fixed;
   bottom: 0;
   width: 100%;
   border: 1px solid gray;
+  background-color: gray;
 }
 
 .left-links {
