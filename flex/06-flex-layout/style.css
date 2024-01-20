@@ -45,13 +45,14 @@ input {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
+  text-align: center;
 }
 
 .footer {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  margin: 100px
+  text-align: center;
 }
 
 .left-links {
