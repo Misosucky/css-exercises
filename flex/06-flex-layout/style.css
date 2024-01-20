@@ -49,6 +49,13 @@ input {
 .footer {
   display: flex;
   justify-content: space-between;
-  align-items: flex-start;
- 
+  align-items: flex-end;
+}
+
+.left-links {
+  display: flex;
+}
+
+.right-links {
+  display: flex;
 }
