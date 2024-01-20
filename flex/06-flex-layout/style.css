@@ -44,18 +44,17 @@ input {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
+  margin: 1px;
 }
 
 .footer {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
+  margin: 100px
 }
 
-.left-links {
+.left-links, .right-links {
   display: flex;
-}
-
-.right-links {
-  display: flex;
+  margin: 1px;
 }
