@@ -20,8 +20,8 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
-  gap: 32px;
-  padding: 15px;
+  gap: 15px;
+  padding: 10px;
   display: flex;
   justify-content: space-around;
 }
@@ -37,7 +37,7 @@ body {
   display: flex;
   flex-shrink: 0;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
 }
 
 .close-button {
@@ -49,7 +49,8 @@ body {
   height: 24px;
   width: 24px;
   border: 1px solid #eee;
-  padding: 0;;
+  padding: 2px;;
+  align-self: flex-end;
 }
 
 button {
