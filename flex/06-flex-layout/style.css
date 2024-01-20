@@ -54,7 +54,10 @@ input {
   margin: 100px
 }
 
-.left-links, .right-links {
+.left-links {
   display: flex;
-  margin: 1px;
+}
+
+.right-links {
+  display: flex;
 }
