@@ -59,12 +59,14 @@ body {
  }
 
  .top {
+  margin-left: 300px;
   display: flex;
   justify-content: center;
   align-items: center;
  }
 
  .bottom {
+  margin-left: 300px;
   display: flex;
   justify-content: center;
   align-items: center;
