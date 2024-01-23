@@ -24,7 +24,6 @@ body {
   flex-direction: column-reverse;
   justify-content: center;
   align-items: center;
-  flex: 1;
 }
 
 .sidebar {
