@@ -25,6 +25,7 @@ body {
 
 ul {
   list-style: none;
+  text-decoration: none;
 }
 .card {
   border: 1px solid #eee;
