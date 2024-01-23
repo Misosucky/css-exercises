@@ -8,6 +8,7 @@ body {
   height: 36px;
   font-size: larger;
   font-weight: bolder;
+  padding-left: 10px;
   background: darkmagenta;
   color: white;
   display: flex;
