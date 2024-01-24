@@ -18,6 +18,7 @@ body {
 
 .footer {
   height: 72px;
+  margin-top: 200px;
   background: #eee;
   color: darkmagenta;
   display: flex;
