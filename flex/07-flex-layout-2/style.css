@@ -65,10 +65,14 @@ body {
   margin-left: 300px;
   display: flex;
   align-items: center;
+  gap: 25px;
+  padding: 16px;
  }
 
  .bottom {
   margin-left: 300px;
   display: flex;
   align-items: center;
+  gap: 25px;
+  padding: 16px;
  }
